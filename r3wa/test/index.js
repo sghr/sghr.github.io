@@ -1,4 +1,4 @@
-import 'main.scss'
+import './main.scss'
 
 import * as THREE from 'three';
 import {add} from './wow.rs';
