@@ -1,8 +1,8 @@
+import './main.scss'
 
 import * as THREE from 'three';
 import {add} from './wow.rs';
 
-import './main.scss'
 
 
 console.log(add(2, 3));
